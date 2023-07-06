@@ -1,8 +1,8 @@
 # My Personal 3D Portfolio
 
 Welcome to my GitHub repository for My Personal 3D Portfolio! This project showcases my skills and experience in building immersive and visually stunning environments using the power of Three.js.
-![Image Preview](Screenshot%202023-07-07%20003737.png)
 
+![Image Preview](Screenshot%202023-07-07%20003737.png)
 
 ## Overview
 
